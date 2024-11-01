@@ -73,7 +73,7 @@ This project guides the setup of a secure DevOps pipeline for a Python-based web
    - Update the application code to display `My Student ID is xxxxxx. Welcome to Express`.
    - Push changes and verify the pipeline automatically detects, builds, and deploys them.
 
-### Task 6: STRIDE Threat Modeling
+### Task 6: STRIDE Threat Modelling
 1. **Create a Threat Model** using Microsoft Threat Modeling Tool:
    - Map system components: Database, Web Application, and User Interface.
 2. **Identify Threats Using STRIDE**:
@@ -81,6 +81,9 @@ This project guides the setup of a secure DevOps pipeline for a Python-based web
 3. **Mitigate Threats**:
    - Provide mitigation strategies for each threat.
    - Generate and review a report in the tool, then upload it to GitHub.
+4. **Threat Model Report Download Guidance**:
+   - Navigate to the file titled `web app threat model.htm in the Assignment 3 repository.
+   - Click to download the file, then open it in your browser to view the threat model report.
 
 ### Future Improvements
 Potential enhancements to this project include:
