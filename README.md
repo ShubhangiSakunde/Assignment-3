@@ -96,6 +96,7 @@ This project was developed as part of the ISEC6000 Secure DevOps course. Special
 - [Portainer Documentation](https://docs.portainer.io/)
 - [AWS CodePipeline Documentation](https://docs.aws.amazon.com/codepipeline/latest/userguide/welcome.html)
 - [NextCloud](https://nextcloud.com/)
+- [Using the Microsoft Threat Modeling Tool - Packt](https://security.packt.com/beginners-corner-using-the-microsoft-threat-modeling-tool/)
 - University-provided course materials from the ISEC6000 Secure DevOps course.
 
 
